@@ -1,5 +1,8 @@
 //https://github.com/github/gitignore/blob/main/Python.gitignore  
 
+# do not commit the entire unzipped project dataset
+project_1/fashion/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
